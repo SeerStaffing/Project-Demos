@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>Terra News — Global News on a Spinning Globe</title>
+  <meta name="description" content="Live global news aggregated onto an interactive 3D globe, placed by geographic origin. Scroll into any region to read the headlines." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="globe"></div>
+
+  <!-- Top bar -->
+  <header id="topbar">
+    <div class="brand">
+      <span class="logo">🌍</span>
+      <div>
+        <h1>Terra&nbsp;News</h1>
+        <p class="tagline">Global headlines, placed where they happen</p>
+      </div>
+    </div>
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Search headlines or countries…" autocomplete="off" />
+    </div>
+    <div class="stats">
+      <span><b id="stat-articles">—</b> stories</span>
+      <span><b id="stat-countries">—</b> countries</span>
+      <span id="stat-updated" title="When this data snapshot was built">updated —</span>
+    </div>
+  </header>
+
+  <!-- Region navigation -->
+  <nav id="regions" aria-label="Jump to region"></nav>
+
+  <!-- Topic filters -->
+  <div id="topics" aria-label="Filter by topic"></div>
+
+  <!-- Headlines side panel -->
+  <aside id="panel" class="open">
+    <div class="panel-head">
+      <h2>Latest <span id="panel-count"></span></h2>
+      <button id="panel-toggle" title="Show / hide headlines">‹</button>
+    </div>
+    <ul id="headlines"></ul>
+  </aside>
+
+  <!-- Loading / status overlay -->
+  <div id="overlay">
+    <div class="spinner"></div>
+    <p id="overlay-msg">Loading the globe…</p>
+  </div>
+
+  <footer id="credits">
+    News via <a href="https://www.gdeltproject.org/" target="_blank" rel="noopener">GDELT</a> ·
+    Globe by <a href="https://github.com/vasturiano/globe.gl" target="_blank" rel="noopener">globe.gl</a> ·
+    Drag to rotate · scroll to zoom
+  </footer>
+
+  <script src="js/vendor/globe.gl.min.js"></script>
+  <script src="js/regions.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "name": "project-demos-terra-news",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Terra News — live global news aggregated onto an interactive 3D globe, placed by geographic origin.",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "fetch": "node scripts/fetch-news.mjs",
+    "centroids": "node scripts/build-centroids.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

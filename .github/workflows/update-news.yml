@@ -1,0 +1,46 @@
+name: Update news data
+
+# Refreshes data/news.json from GDELT on a schedule so the live Pages site
+# always shows recent headlines. Also runnable on demand.
+on:
+  schedule:
+    - cron: '17 */2 * * *'   # every 2 hours (offset to dodge the top-of-hour rush)
+  workflow_dispatch:
+
+# Allow the job to push the refreshed data file back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest news
+        run: node scripts/fetch-news.mjs
+        env:
+          NEWS_TIMESPAN: '24h'
+          NEWS_MAX_PER_QUERY: '75'
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "terra-news-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/news.json; then
+            echo "No news changes to commit."
+          else
+            git add data/news.json
+            git commit -m "chore: refresh news data [skip ci]"
+            git push
+          fi
