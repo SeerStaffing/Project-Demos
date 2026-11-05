@@ -1,9 +1,117 @@
 {
-  "generatedAt": "2026-11-05T09:53:20.820Z",
+  "generatedAt": "2026-11-05T18:19:31.662Z",
   "source": "GDELT DOC 2.0 API",
   "timespan": "24h",
-  "count": 26,
+  "count": 29,
   "articles": [
+    {
+      "title": "The whitening of America refugee policy : Who gets to be saved ? ",
+      "url": "https://amsterdamnews.com/news/2026/11/05/the-whitening-of-americas-refugee-policy-who-gets-to-be-saved/",
+      "domain": "amsterdamnews.com",
+      "country": "United States",
+      "topic": "Top",
+      "lang": "English",
+      "image": "https://i0.wp.com/amsterdamnews.com/wp-content/uploads/2026/11/imm-korner-11-5-refuggees-meineresterampe-barbed-wire-3697377-scaled.jpg?fit=2560%2C2560&ssl=1",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": 37.382,
+      "lng": -98.236
+    },
+    {
+      "title": "Credit card delinquencies are rising fastest in these states ; what to do about the debt",
+      "url": "https://www.fox10phoenix.com/news/credit-card-delinquencies-rising-fastest-states-what-do-about-debt",
+      "domain": "fox10phoenix.com",
+      "country": "United States",
+      "topic": "Top",
+      "lang": "English",
+      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/11/1280/720/gettyimages-540186921.jpg?ve=1&tl=1",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": 40.436,
+      "lng": -97.696
+    },
+    {
+      "title": "Third northbound I - 81 lane near Staunton to open",
+      "url": "https://richmond.com/news/community/article_7adaf737-9ce3-5394-950e-8c8bb2ba9f7d.html",
+      "domain": "richmond.com",
+      "country": "United States",
+      "topic": "Top",
+      "lang": "English",
+      "image": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/13/413167cc-359b-5e0a-8cf6-861724ef65e1/6aebedc925eb5.image.jpg?crop=1547%2C812%2C503%2C0",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": 37.04,
+      "lng": -97.42
+    },
+    {
+      "title": "Janosch : Farewell to a master of childhood imagination",
+      "url": "https://www.sbs.com.au/language/german/en/podcast-episode/janosch-farewell-to-a-master-of-childhood-imagination/kesmozpju",
+      "domain": "sbs.com.au",
+      "country": "Australia",
+      "topic": "Top",
+      "lang": "English",
+      "image": "https://sbs-au-brightspot.s3.ap-southeast-2.amazonaws.com/57/a3/79c0fcce4627b7592b86b4274267/gettyimages-541803981.jpg",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": -28.002,
+      "lng": 133.804
+    },
+    {
+      "title": "Trump is considering firing Hegseth after devastating GOP midterm loss : report",
+      "url": "https://fox23.com/news/nation-world/trump-is-considering-firing-hegseth-after-devastating-gop-midterm-loss-report-ron-desantis-democrats-kentucky-florida",
+      "domain": "fox23.com",
+      "country": "United States",
+      "topic": "Top",
+      "lang": "English",
+      "image": "https://fox23.com/resources/media2/16x9/7815/1320/0x409/90/31a3073c-447d-49a4-97b6-c16ac6444d99-GettyImages2302591104.jpg",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": 36.212,
+      "lng": -95.842
+    },
+    {
+      "title": "How well did polls predict the blue wave ? ",
+      "url": "https://www.wvik.org/npr-top-stories/2026-11-04/how-well-did-polls-predict-the-blue-wave",
+      "domain": "wvik.org",
+      "country": "United States",
+      "topic": "Top",
+      "lang": "English",
+      "image": "",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": 37.052,
+      "lng": -98.194
+    },
+    {
+      "title": "BIGO LIVE and Likee registered in Pakistan by PTA",
+      "url": "https://arynews.tv/bigo-live-and-likee-registered-in-pakistan-by-pta",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "topic": "Top",
+      "lang": "English",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/BIGO-LIVE-LIKEE-registered-Pakistan-PTA.jpg",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": 29.712,
+      "lng": 70.66
+    },
+    {
+      "title": "Ted Cruz calls midterm election results a  Watergate - level repudiation  of the GOP , warns  Americans will be hurt  by radical Dems",
+      "url": "https://nypost.com/2026/11/05/us-news/ted-cruz-calls-midterm-election-results-a-watergate-level-repudiation-of-the-gop-warns-americans-will-be-hurt-by-radical-dems/",
+      "domain": "nypost.com",
+      "country": "United States",
+      "topic": "Top",
+      "lang": "English",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147595925.jpg?quality=75&strip=all",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": 36.782,
+      "lng": -97.354
+    },
+    {
+      "title": "What killer cop has said so far in double - murder trial",
+      "url": "https://www.greatlakesadvocate.com.au/story/9386726/what-killer-cop-has-said-so-far-in-double-murder-trial/",
+      "domain": "greatlakesadvocate.com.au",
+      "country": "Australia",
+      "topic": "Top",
+      "lang": "English",
+      "image": "https://www.greatlakesadvocate.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6be81158-36ac-461f-9604-e5071841ff5c.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": -26.1,
+      "lng": 135.448
+    },
     {
       "title": "US midterm election results live : Trump blames Iran war after losses | US Midterm Elections 2026 News",
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?update=5123773",
@@ -27,18 +135,6 @@
       "date": "2026-11-05T07:15:00.000Z",
       "lat": -12.21,
       "lng": 34.312
-    },
-    {
-      "title": "The whitening of America refugee policy : Who gets to be saved ? ",
-      "url": "https://amsterdamnews.com/news/2026/11/05/the-whitening-of-americas-refugee-policy-who-gets-to-be-saved/",
-      "domain": "amsterdamnews.com",
-      "country": "United States",
-      "topic": "Politics",
-      "lang": "English",
-      "image": "https://i0.wp.com/amsterdamnews.com/wp-content/uploads/2026/11/imm-korner-11-5-refuggees-meineresterampe-barbed-wire-3697377-scaled.jpg?fit=2560%2C2560&ssl=1",
-      "date": "2026-11-05T07:15:00.000Z",
-      "lat": 37.382,
-      "lng": -98.236
     },
     {
       "title": "Lawmakers seek better efficiency in allocation , use of public resources",
@@ -65,18 +161,6 @@
       "lng": -95.518
     },
     {
-      "title": "Credit card delinquencies are rising fastest in these states ; what to do about the debt",
-      "url": "https://www.fox10phoenix.com/news/credit-card-delinquencies-rising-fastest-states-what-do-about-debt",
-      "domain": "fox10phoenix.com",
-      "country": "United States",
-      "topic": "Politics",
-      "lang": "English",
-      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/11/1280/720/gettyimages-540186921.jpg?ve=1&tl=1",
-      "date": "2026-11-05T07:15:00.000Z",
-      "lat": 40.436,
-      "lng": -97.696
-    },
-    {
       "title": "EAM Jaishankar meets Australian , united kingdom PMs , discusses bilateral cooperation",
       "url": "https://ianslive.in/eam-jaishankar-meets-australian-uk-pms-discusses-bilateral-cooperation--20261105105112",
       "domain": "ianslive.in",
@@ -89,18 +173,6 @@
       "lng": 77.066
     },
     {
-      "title": "Trump is considering firing Hegseth after devastating GOP midterm loss : report",
-      "url": "https://fox23.com/news/nation-world/trump-is-considering-firing-hegseth-after-devastating-gop-midterm-loss-report-ron-desantis-democrats-kentucky-florida",
-      "domain": "fox23.com",
-      "country": "United States",
-      "topic": "Politics",
-      "lang": "English",
-      "image": "https://fox23.com/resources/media2/16x9/7815/1320/0x409/90/31a3073c-447d-49a4-97b6-c16ac6444d99-GettyImages2302591104.jpg",
-      "date": "2026-11-05T07:15:00.000Z",
-      "lat": 36.212,
-      "lng": -95.842
-    },
-    {
       "title": "Selaković ( NKEU ): Izveštaj EU nikad gori , zbog represije nad univerzitetima i studentima Srbija prvi put nazaduje u obrazovanju ( VIDEO ) - Povezane vesti",
       "url": "https://naslovi.net/tema/2601263",
       "domain": "naslovi.net",
@@ -111,18 +183,6 @@
       "date": "2026-11-05T07:15:00.000Z",
       "lat": 42.056,
       "lng": 19.032
-    },
-    {
-      "title": "How well did polls predict the blue wave ? ",
-      "url": "https://www.wvik.org/npr-top-stories/2026-11-04/how-well-did-polls-predict-the-blue-wave",
-      "domain": "wvik.org",
-      "country": "United States",
-      "topic": "Politics",
-      "lang": "English",
-      "image": "",
-      "date": "2026-11-05T07:15:00.000Z",
-      "lat": 37.052,
-      "lng": -98.194
     },
     {
       "title": "UK agrees to slave trade reparations talks addressing  historical harm after Commonwealth deal",
@@ -185,18 +245,6 @@
       "lng": -99.502
     },
     {
-      "title": "Ted Cruz calls midterm election results a  Watergate - level repudiation  of the GOP , warns  Americans will be hurt  by radical Dems",
-      "url": "https://nypost.com/2026/11/05/us-news/ted-cruz-calls-midterm-election-results-a-watergate-level-repudiation-of-the-gop-warns-americans-will-be-hurt-by-radical-dems/",
-      "domain": "nypost.com",
-      "country": "United States",
-      "topic": "Politics",
-      "lang": "English",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147595925.jpg?quality=75&strip=all",
-      "date": "2026-11-05T07:15:00.000Z",
-      "lat": 36.782,
-      "lng": -97.354
-    },
-    {
       "title": "Saratoga Springs city workers appeal to council amid layoffs | News",
       "url": "https://www.dailygazette.com/leader_herald/news/saratoga-workers-appeal-to-council-layoffs/article_b8f23421-a052-4c63-a6c4-3236c4cc6fe7.html",
       "domain": "dailygazette.com",
@@ -209,52 +257,16 @@
       "lng": -98.416
     },
     {
-      "title": "Salman returns to playback singing with Maatrubhumi song",
-      "url": "https://theshillongtimes.com/2026/11/05/salman-returns-to-playback-singing-with-maatrubhumi-song/",
-      "domain": "theshillongtimes.com",
-      "country": "India",
-      "topic": "Conflict",
+      "title": "Best Used Cars in Delhi for Daily Commuting",
+      "url": "http://www.asiabulletin.com/news/279412106/best-used-cars-in-delhi-for-daily-commuting",
+      "domain": "asiabulletin.com",
+      "country": "China",
+      "topic": "Climate",
       "lang": "English",
-      "image": "",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/5b4f65d/daecedc3-1529-4545-a63d-d05df730264e/0/ANI-20261105054337-600x315.jpg",
       "date": "2026-11-05T07:15:00.000Z",
-      "lat": 17.282,
-      "lng": 76.838
-    },
-    {
-      "title": "Backups Drew Lock , Gardner Minshew II do battle as Seahawks host Cardinals",
-      "url": "https://www.1045thezone.com/2026/11/05/backups-drew-lock-gardner-minshew-ii-do-battle-as-seahawks-host-cardinals/",
-      "domain": "1045thezone.com",
-      "country": "United States",
-      "topic": "Conflict",
-      "lang": "English",
-      "image": "https://v4.dailysportspage.com/cumulus/image/883319/600/400/",
-      "date": "2026-11-05T07:15:00.000Z",
-      "lat": 36.074,
-      "lng": -97.894
-    },
-    {
-      "title": "Chandigarh - based couple , their firms face  US sanctions over Iran oil links",
-      "url": "https://www.dailyexcelsior.com/chandigarh-based-couple-their-firms-face-us-sanctions-over-iran-oil-links/",
-      "domain": "dailyexcelsior.com",
-      "country": "India",
-      "topic": "Conflict",
-      "lang": "English",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTc2OTQxNTUwLWQ4ZTYtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
-      "date": "2026-11-05T07:15:00.000Z",
-      "lat": 22.262,
-      "lng": 79.538
-    },
-    {
-      "title": "Maritime security must keep pace with new threats : Rajnath",
-      "url": "https://kashmirreader.com/2026/11/05/maritime-security-must-keep-pace-with-new-threats-rajnath/",
-      "domain": "kashmirreader.com",
-      "country": "India",
-      "topic": "Conflict",
-      "lang": "English",
-      "image": "",
-      "date": "2026-11-05T07:15:00.000Z",
-      "lat": 19.31,
-      "lng": 78.068
+      "lat": 35.51,
+      "lng": 106.392
     },
     {
       "title": "Amazon Trades at a Fraction of Costco Valuation . Is the Discount Deserved ? ",
@@ -267,6 +279,18 @@
       "date": "2026-11-05T07:15:00.000Z",
       "lat": 39.248,
       "lng": -98.368
+    },
+    {
+      "title": "Maritime security must keep pace with new threats : Rajnath",
+      "url": "https://kashmirreader.com/2026/11/05/maritime-security-must-keep-pace-with-new-threats-rajnath/",
+      "domain": "kashmirreader.com",
+      "country": "India",
+      "topic": "Technology",
+      "lang": "English",
+      "image": "",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": 19.31,
+      "lng": 78.068
     },
     {
       "title": "TCS Enterprise AI Study : 84 % say productivity is AI top benefit ; just 10 % let AI act without human oversight",
@@ -315,6 +339,18 @@
       "date": "2026-11-05T07:15:00.000Z",
       "lat": 40.898,
       "lng": -94.408
+    },
+    {
+      "title": "Backups Drew Lock , Gardner Minshew II do battle as Seahawks host Cardinals",
+      "url": "https://www.1045thezone.com/2026/11/05/backups-drew-lock-gardner-minshew-ii-do-battle-as-seahawks-host-cardinals/",
+      "domain": "1045thezone.com",
+      "country": "United States",
+      "topic": "Sports",
+      "lang": "English",
+      "image": "https://v4.dailysportspage.com/cumulus/image/883319/600/400/",
+      "date": "2026-11-05T07:15:00.000Z",
+      "lat": 36.074,
+      "lng": -97.894
     }
   ]
 }
